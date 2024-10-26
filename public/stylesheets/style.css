@@ -5,3 +5,7 @@ h1 {
   * {
     font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
   }
+
+  #title {
+    color: darkgrey;
+  }
