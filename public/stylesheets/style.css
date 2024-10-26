@@ -1,6 +1,4 @@
-h1 {
-    font-style: italic;
-  }
+
 
   * {
     font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
@@ -9,3 +7,21 @@ h1 {
   #title {
     color: darkgrey;
   }
+
+  h1 {
+    font-style: italic;
+  }
+
+h2 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+  text-decoration:none;
+}
+p {
+  text-align: center;
+}
+#links{
+  list-style-type: none;
+}
